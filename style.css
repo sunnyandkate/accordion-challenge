@@ -126,7 +126,7 @@ input[type='radio']:checked  ~ .answer{
 	
 }
 
-input[type='radio']:checked ~  label div.question{
+input[type='radio']:checked ~  label span.question{
 	color: hsl(238, 29%, 16%);
 	font-weight:700;
 	
